@@ -1,23 +1,26 @@
-# Titulo
+# Brave Man
 
 ## Preámbulo
-Aquí nos darás un intro sobre tu proyecto, puede ser tanto la problemática que vas a resolver o el objetivo del proyecto. 
+Brave Man luchara a toda costa junto a su mas querido perro llamado luckylol, para conseguir recuperar el orbe que pertenece a su aldea y que fue robado por el malvado Zakgron. En el camino se encontrara con obstaculos y enemigos que tendra que vencer, hasta llegar a la camara donde se encuentra el orbe y que Zakgron custodia con todas sus fuerzas.
 
 ## Introducción
-Parecido al preámbulo, solo que nos darás más información sobre el proyecto.
+Para poder avanzar tendras que correr, brincar y caminar. Para atacar tendras una espada con la que tendras que derrotar a los enemigos.
 
 ## Objetivos de aprendizaje
-¿Qué aprenderás con este proyecto? Si tienes dudas, puedes acercarte a los coaches para aterrizar estos objetivos
+Aprender a utilizar otras herramientas y lenguajes tal como C# y agilizar mi autoaprendizaje ante nuevas tecnologias.
 
 ## Consideraciones Generales
-Las reglas del juego para tu proyecto. Como te vas a organizar, que cosas se pueden utilizar, etc.
+El juego debera ser descargado como un archivo ejecutable para jugar en computadora.
 
 ## Avances esperados
-Qué esperas lograr con este proyecto según el tiempo establecido.
+Este proyecto esta ideado con una duracion de 3 semanas para la primera version. 
 
 ## Hacker Edition
-Lo que te gustaría lograr cuando los avances esperados esten listos.
+Que el avatar pueda obtener equipamientos en el camino.
 
 ## Uso
-Explica a quienes visiten tu repo como pueden contribuir a tu proyecto. ¿Hay que instalar algo? Describe los pasos para poder correr localmente el proyecto.
+Este proyecto es open source y podran contribuir mandando commit al repositorio de github. 
+
+Para la instalacion debera...
+
 
